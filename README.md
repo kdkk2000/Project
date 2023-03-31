@@ -55,5 +55,7 @@
 
 ## 실행화면 설명
 ![슬라이드18](https://user-images.githubusercontent.com/119981831/229056060-850847ea-5195-4cd6-85b7-530b800f7028.JPG)
-![슬라이드19](https://user-images.githubusercontent.com/119981831/229056069-e00fbb06-2cf1-4d22-85f3-514c83c8e4b4.JPG)
-![슬라이드20](https://user-images.githubusercontent.com/119981831/229056072-72c949f9-c045-473b-a2ac-a64fa98f9f6f.JPG)
+![슬라이드19](https://user-images.githubusercontent.com/119981831/229074358-bfc9db14-3864-4eee-ac5e-46a2ca3f86be.JPG)
+![슬라이드20](https://user-images.githubusercontent.com/119981831/229074368-5029a9a9-b0cf-441a-90ac-802e8cad4b31.JPG)
+![슬라이드21](https://user-images.githubusercontent.com/119981831/229074370-43a362bf-51ec-4256-92e4-478a5de6a557.JPG)
+![슬라이드22](https://user-images.githubusercontent.com/119981831/229074375-1eff93c2-3875-4017-ac59-7d9330033101.JPG)
