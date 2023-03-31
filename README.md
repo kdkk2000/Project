@@ -13,11 +13,11 @@
 
 
 ## 목차
-[1. 작업 분할 구조도](https://github.com/kdkk2000/Project/blob/main/README.md#%EC%9E%91%EC%97%85%EB%B6%84%ED%95%A0%EB%8F%84)<br>
-[2. Gantt Chart](https://github.com/kdkk2000/Project/blob/main/README.md#gantt-chart)<br>
-[3. 이용자 권한](https://github.com/kdkk2000/Project/blob/main/README.md#%EC%9D%B4%EC%9A%A9%EC%9E%90-%EA%B6%8C%ED%95%9C)<br>
-[4. Usecase Diagram](https://github.com/kdkk2000/Project/blob/main/README.md#usecase-diagram)<br>
-[5. Sequence Diagram](https://github.com/kdkk2000/Project/blob/main/README.md#sequence-diagram)<br>
+[1. 작업 분할 구조도](https://user-images.githubusercontent.com/119981831/229052153-616bd32d-b8aa-41fa-bec2-86f435aac0b6.JPG)(https://user-images.githubusercontent.com/119981831/229052166-2fdc1bd6-bace-4251-b249-bd01d44deee1.JPG)<br>
+[2. Gantt Chart](https://user-images.githubusercontent.com/119981831/229052205-29c72877-879f-461b-91b9-f96935995812.JPG)<br>
+[3. 이용자 권한](https://user-images.githubusercontent.com/119981831/229052229-e15bb45e-2a37-4bf4-bb08-a4dd00969c93.JPG)<br>
+[4. Usecase Diagram](https://user-images.githubusercontent.com/119981831/229052250-bc4591f9-8ac6-4b05-9cbe-dbe25d6ee70c.JPG)<br>
+[5. Sequence Diagram](https://user-images.githubusercontent.com/119981831/229052264-fd27d5fd-37b4-4222-9da1-6c99e6fe2f8f.JPG)(https://user-images.githubusercontent.com/119981831/229052275-faa09ad4-58a1-4321-9357-d9c111bb3c80.JPG)<br>
 [6. E-R Diagram]()<br>
 [7. 기능 정의서 및 설계]()<br>
 [8. 기능 정의서]()<br>
