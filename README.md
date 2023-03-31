@@ -13,16 +13,16 @@
 
 
 ## 목차
-[1. 작업 분할 구조도](https://user-images.githubusercontent.com/119981831/229052153-616bd32d-b8aa-41fa-bec2-86f435aac0b6.JPG)(https://user-images.githubusercontent.com/119981831/229052166-2fdc1bd6-bace-4251-b249-bd01d44deee1.JPG)<br>
-[2. Gantt Chart](https://user-images.githubusercontent.com/119981831/229052205-29c72877-879f-461b-91b9-f96935995812.JPG)<br>
-[3. 이용자 권한](https://user-images.githubusercontent.com/119981831/229052229-e15bb45e-2a37-4bf4-bb08-a4dd00969c93.JPG)<br>
-[4. Usecase Diagram](https://user-images.githubusercontent.com/119981831/229052250-bc4591f9-8ac6-4b05-9cbe-dbe25d6ee70c.JPG)<br>
-[5. Sequence Diagram](https://user-images.githubusercontent.com/119981831/229052264-fd27d5fd-37b4-4222-9da1-6c99e6fe2f8f.JPG)(https://user-images.githubusercontent.com/119981831/229052275-faa09ad4-58a1-4321-9357-d9c111bb3c80.JPG)<br>
-[6. 기능 정의서 및 설계]()<br>
-[7. E-R Diagram]()<br>
-[8. 기능 정의서]()<br>
-[9. Project Source Explore]()<br>
-[10. 실행화면 설명]()<br>
+[1. 작업 분할 구조도](https://github.com/kdkk2000/Project/blob/main/README.md#%EC%9E%91%EC%97%85-%EB%B6%84%ED%95%A0-%EA%B5%AC%EC%A1%B0%EB%8F%84)<br>
+[2. Gantt Chart](https://github.com/kdkk2000/Project/blob/main/README.md#gantt-chart)<br>
+[3. 이용자 권한](https://github.com/kdkk2000/Project/blob/main/README.md#%EC%9D%B4%EC%9A%A9%EC%9E%90-%EA%B6%8C%ED%95%9C)<br>
+[4. Usecase Diagram](https://github.com/kdkk2000/Project/blob/main/README.md#usecase-diagram)<br>
+[5. Sequence Diagram](https://github.com/kdkk2000/Project/blob/main/README.md#sequence-diagram)<br>
+[6. 기능 정의서 및 설계](https://github.com/kdkk2000/Project/blob/main/README.md#%EA%B8%B0%EB%8A%A5%EC%A0%95%EC%9D%98%EC%84%9C-%EB%B0%8F-%EC%84%A4%EA%B3%84)<br>
+[7. E-R Diagram](https://github.com/kdkk2000/Project/blob/main/README.md#e-r-diagram)<br>
+[8. 기능 정의서](https://github.com/kdkk2000/Project/blob/main/README.md#%EA%B8%B0%EB%8A%A5%EC%A0%95%EC%9D%98%EC%84%9C)<br>
+[9. Project Source Explore](https://github.com/kdkk2000/Project/blob/main/README.md#project-source-explore)<br>
+[10. 실행화면 설명](https://github.com/kdkk2000/Project/blob/main/README.md#%EC%8B%A4%ED%96%89%ED%99%94%EB%A9%B4-%EC%84%A4%EB%AA%85)<br>
 
 ## 작업 분할 구조도
 ![작업분할구조도1](https://user-images.githubusercontent.com/119981831/229055499-027380d3-5b1e-466a-90dd-402c8a201c9f.JPG)
