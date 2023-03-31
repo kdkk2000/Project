@@ -18,8 +18,8 @@
 [3. 이용자 권한](https://user-images.githubusercontent.com/119981831/229052229-e15bb45e-2a37-4bf4-bb08-a4dd00969c93.JPG)<br>
 [4. Usecase Diagram](https://user-images.githubusercontent.com/119981831/229052250-bc4591f9-8ac6-4b05-9cbe-dbe25d6ee70c.JPG)<br>
 [5. Sequence Diagram](https://user-images.githubusercontent.com/119981831/229052264-fd27d5fd-37b4-4222-9da1-6c99e6fe2f8f.JPG)(https://user-images.githubusercontent.com/119981831/229052275-faa09ad4-58a1-4321-9357-d9c111bb3c80.JPG)<br>
-[6. E-R Diagram]()<br>
-[7. 기능 정의서 및 설계]()<br>
+[6. 기능 정의서 및 설계]()<br>
+[7. E-R Diagram]()<br>
 [8. 기능 정의서]()<br>
 [9. Project Source Explore]()<br>
 [10. 실행화면 설명]()<br>
@@ -41,11 +41,11 @@
 ![Sequence1](https://user-images.githubusercontent.com/119981831/229055861-5bcf58d9-b61e-4001-a4c1-148629fc228e.JPG)
 ![Sequence2](https://user-images.githubusercontent.com/119981831/229055873-7d2b3012-a55e-45fe-9369-174f0c1c62fa.JPG)
 
-## E-R Diagram
-![er](https://user-images.githubusercontent.com/119981831/229055909-18ffffc9-5cf2-42bb-bc64-b0a889809d7e.JPG)
-
 ## 기능정의서 및 설계
 ![기능정의서및 설계](https://user-images.githubusercontent.com/119981831/229055930-2bb8cb44-ae4b-4a85-a03a-05e69ad5bc4f.JPG)
+
+## E-R Diagram
+![er](https://user-images.githubusercontent.com/119981831/229055909-18ffffc9-5cf2-42bb-bc64-b0a889809d7e.JPG)
 
 ## 기능정의서
 ![기능정의서](https://user-images.githubusercontent.com/119981831/229055943-16630888-9f55-4bb1-b1ec-90ef55e017bd.JPG)
