@@ -1,0 +1,26 @@
+package com.lec.ex.dto;
+
+import java.util.Date;
+
+public class BoardCommentDTO {
+    private int commentId;
+    private int boardId;
+    private String userId;
+    private String adminId;
+    private String commentContent;
+    private Date commentDate;
+
+    // 생성자, getter/setter 생략
+
+    @Override
+    public String toString() {
+        return "BoardCommentDTO{" +
+                "commentId=" + commentId +
+                ", boardId=" + boardId +
+                ", userId='" + userId + '\'' +
+                ", adminId='" + adminId + '\'' +
+                ", commentContent='" + commentContent + '\'' +
+                ", commentDate=" + commentDate +
+                '}';
+    }
+}

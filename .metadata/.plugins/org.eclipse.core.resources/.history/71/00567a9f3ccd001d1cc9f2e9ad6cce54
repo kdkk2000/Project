@@ -1,0 +1,118 @@
+package com.lec.ex.dto;
+
+import java.sql.Timestamp;
+
+public class NoticeDto {
+	private int noticeId;
+	private String userId;
+	private String userName; // join해서 출력
+	private String noticeTitle;
+	private String noticeContent;
+	private String noticeFileName;
+	private Timestamp noticeDate;
+	private int noticeHit;
+	private int noticeGroup;
+	private int noticeStep;
+	private int noticeIndent;
+	private String noticeIp;
+	
+	public NoticeDto() {}
+	
+	public NoticeDto(int noticeId, String userId, String userName, String noticeTitle, String noticeContent,
+			String noticeFileName, Timestamp noticeDate, int noticeHit, int noticeGroup, int noticeStep, int noticeIndent,
+			String noticeIp) {
+		this.noticeId = noticeId;
+		this.userId = userId;
+		this.userName = userName;
+		this.noticeTitle = noticeTitle;
+		this.noticeContent = noticeContent;
+		this.noticeFileName = noticeFileName;
+		this.noticeDate = noticeDate;
+		this.noticeHit = noticeHit;
+		this.noticeGroup = noticeGroup;
+		this.noticeStep = noticeStep;
+		this.noticeIndent = noticeIndent;
+		this.noticeIp = noticeIp;
+	}
+	public int getnoticeId() {
+		return noticeId;
+	}
+	public void setnoticeId(int noticeId) {
+		this.noticeId = noticeId;
+	}
+	public String getUserId() {
+		return userId;
+	}
+	public void setUserId(String userId) {
+		this.userId = userId;
+	}
+	public String getUserName() {
+		return userName;
+	}
+	public void setUserName(String userName) {
+		this.userName = userName;
+	}
+	public String getnoticeTitle() {
+		return noticeTitle;
+	}
+	public void setnoticeTitle(String noticeTitle) {
+		this.noticeTitle = noticeTitle;
+	}
+	public String getnoticeContent() {
+		return noticeContent;
+	}
+	public void setnoticeContent(String noticeContent) {
+		this.noticeContent = noticeContent;
+	}
+	public String getnoticeFileName() {
+		return noticeFileName;
+	}
+	public void setnoticeFileName(String noticeFileName) {
+		this.noticeFileName = noticeFileName;
+	}
+	public Timestamp getnoticeDate() {
+		return noticeDate;
+	}
+	public void setnoticeDate(Timestamp noticeDate) {
+		this.noticeDate = noticeDate;
+	}
+	public int getnoticeHit() {
+		return noticeHit;
+	}
+	public void setnoticeHit(int noticeHit) {
+		this.noticeHit = noticeHit;
+	}
+	public int getnoticeGroup() {
+		return noticeGroup;
+	}
+	public void setnoticeGroup(int noticeGroup) {
+		this.noticeGroup = noticeGroup;
+	}
+	public int getnoticeStep() {
+		return noticeStep;
+	}
+	public void setnoticeStep(int noticeStep) {
+		this.noticeStep = noticeStep;
+	}
+	public int getnoticeIndent() {
+		return noticeIndent;
+	}
+	public void setnoticeIndent(int noticeIndent) {
+		this.noticeIndent = noticeIndent;
+	}
+	public String getnoticeIp() {
+		return noticeIp;
+	}
+	public void setnoticeIp(String noticeIp) {
+		this.noticeIp = noticeIp;
+	}
+	@Override
+	public String toString() {
+		return "NoticeDto [noticeId=" + noticeId + ", userId=" + userId + ", userName=" + userName + ", noticeTitle="
+				+ noticeTitle + ", noticeContent=" + noticeContent + ", noticeFileName=" + noticeFileName + ", noticeDate="
+				+ noticeDate + ", noticeHit=" + noticeHit + ", noticeGroup=" + noticeGroup + ", noticeStep=" + noticeStep
+				+ ", noticeIndent=" + noticeIndent + ", noticeIp=" + noticeIp + "]";
+	}
+
+	
+}

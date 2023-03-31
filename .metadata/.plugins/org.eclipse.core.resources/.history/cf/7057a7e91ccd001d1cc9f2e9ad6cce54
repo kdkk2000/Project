@@ -1,0 +1,19 @@
+package com.lec.ex.service;
+
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+import com.lec.ex.dao.AdminDao;
+import com.lec.ex.dto.AdminDto;
+
+public class AdminViewService implements Service {
+	
+	@Override
+	public void execute(HttpServletRequest request, HttpServletResponse response) {
+	    String adminId = request.getParameter("adminId");
+	    AdminDto adminDto = null;
+	    AdminDao adminDao = AdminDao.getInstance();
+	    adminDto = adminDao.getAdmin(adminId);
+		request.setAttribute("adminDto", adminDto);
+	}
+}

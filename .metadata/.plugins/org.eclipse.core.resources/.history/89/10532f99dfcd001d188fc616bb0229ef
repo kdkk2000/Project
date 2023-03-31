@@ -1,0 +1,146 @@
+@charset "UTF-8";
+
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background-color: #f7f7f7;
+	font-family: Arial, sans-serif;
+}
+
+#content_form {
+	height: 450px;
+	margin: 50px auto 0;
+	width: 800px;
+}
+
+.container {
+	margin: 0 auto;
+	max-width: 500px;
+	padding: 20px;
+}
+
+h1 {
+	font-size: 32px;
+	font-weight: bold;
+	margin-bottom: 20px;
+}
+
+form {
+	background-color: #fff;
+	border: 1px solid #ccc;
+	padding: 30px;
+	border-radius: 10px;
+	box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
+
+form input[type="text"],
+form textarea {
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	margin-bottom: 15px;
+	padding: 10px;
+	width: 100%;
+	font-size: 16px;
+	color: #555;
+}
+
+form input[type="file"] {
+	margin-top: 15px;
+}
+
+form input[type="submit"],
+form input[type="reset"],
+form input[type="button"] {
+	background-color: #4CAF50;
+	border: none;
+	border-radius: 5px;
+	color: #fff;
+	cursor: pointer;
+	display: inline-block;
+	margin-right: 10px;
+	padding: 12px 30px;
+	font-size: 16px;
+}
+
+form input[type="submit"]:hover,
+form input[type="reset"]:hover,
+form input[type="button"]:hover {
+	background-color: #3e8e41;
+}
+
+table {
+	border-collapse: collapse;
+	margin: 0 auto;
+	width: 100%;
+}
+
+table td {
+	border: 1px solid #ccc;
+	cursor: pointer;
+	padding: 10px;
+	text-align: center;
+}
+
+.paging {
+	align-items: center;
+	background-color: #fff;
+	bottom: 150px;
+	display: flex;
+	justify-content: center;
+	left: 0;
+	margin-top: 20px;
+	position: fixed;
+	right: 0;
+	z-index: 1;
+}
+
+.paging a,
+.paging b {
+	background-color: #4CAF50;
+	border-radius: 5px;
+	color: #fff;
+	cursor: pointer;
+	display: inline-block;
+	margin: 0 5px;
+	padding: 5px 10px;
+}
+
+.paging a:hover {
+	background-color: #3e8e41;
+}
+
+.paging b {
+	background-color: #eee;
+	color: #444;
+}
+
+table {
+	border-collapse: collapse;
+	margin: 0 auto;
+	width: 100%;
+}
+
+table.th,
+table.td {
+	border: 1px solid black;
+	padding: 10px;
+	text-align: center;
+	width: 200px;
+}
+
+table.th {
+	background-color: #4CAF50;
+	color: #fff;
+	font-size: 25px;
+}
+
+.caption {
+	font-size: 24px;
+	font-weight: bold;
+	margin-bottom: 20px;
+	text-align: center;
+}

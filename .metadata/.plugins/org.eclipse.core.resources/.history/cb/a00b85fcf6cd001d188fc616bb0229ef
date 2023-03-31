@@ -1,0 +1,98 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f7f7f7;
+}
+
+#content_form {
+  margin: 50px auto;
+  width: 600px;
+  height: 600px;
+  padding: 20px;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+table {
+  border-collapse: collapse;
+  margin: 0 auto;
+  width: 100%;
+  font-size: 16px;
+}
+
+table caption {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+table td,
+table th {
+  padding: 10px;
+  border: 1px solid #ccc;
+  text-align: center;
+}
+
+table th {
+  background-color: lemon;
+  color: black;
+  font-size: 14px;
+}
+
+table td:first-child {
+  font-weight: bold;
+  width: 100px;
+}
+
+table td pre {
+  white-space: pre-wrap;
+  text-align: center;
+  height: 300px;
+  overflow-y: auto;
+  
+}
+
+table tr:last-child td {
+  text-align: right;
+}
+
+button {
+  background-color: #4CAF50;
+  border: none;
+  border-radius: 5px;
+  color: #fff;
+  cursor: pointer;
+  padding: 10px 12px;
+  font-size: 12px;
+  margin-right: 10px;
+}
+
+button:hover {
+  background-color: black;
+}
+
+button:last-child {
+  margin-right: 0;
+}
+
+button.modify {
+  background-color: #2196F3;
+}
+
+button.delete {
+  background-color: #F44336;
+}
+
+button.reply {
+  background-color: #9C27B0;
+}
+
+button.list {
+  background-color: #607D8B;
+}

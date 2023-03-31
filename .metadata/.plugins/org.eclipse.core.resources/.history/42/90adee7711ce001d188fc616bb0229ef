@@ -1,0 +1,87 @@
+@charset "UTF-8";
+
+#content_form {
+	margin: 10px auto;
+	width: 80%;
+	padding: 8px;
+	background-color: #f1f1f1;
+	border-radius: 5px;
+}
+
+form {
+	margin: 15px 0px;
+}
+
+form table {
+	width: 800%;
+	border-collapse: collapse;
+}
+
+form table caption {
+	font-size: 1.4em;
+	font-weight: bold;
+	margin-bottom: 15px;
+}
+
+form table th, form table td {
+	padding: 8px;
+	border: 1px solid #ddd;
+	text-align: left;
+}
+
+form table th {
+	background-color: #f2f2f2;
+	color: #555;
+	width: 25%;
+}
+
+form table td {
+	width: 50%;
+}
+
+form table td input[type="text"],
+form table td input[type="password"],
+form table td input[type="email"] {
+	width: 85%;
+	padding: 8px;
+	border-radius: 5px;
+	border: 1px solid #ccc;
+	font-size: 1em;
+}
+
+#userIdConfirmResult,
+#userPwChkResult,
+#userEmailConfirmResult {
+  	font-size: 12px;
+  	font-weight: bold;
+  	color: red;
+  	margin-top: 5px;
+}
+
+#adminIdConfirmResult,
+#adminPwChkResult,
+#adminEmailConfirmResult {
+  	font-size: 12px;
+  	font-weight: bold;
+  	color: red;
+  	margin-top: 5px;
+}
+
+form table td input[type="submit"],
+form table td input[type="reset"],
+form table td input[type="button"] {
+	padding: 10px 20px;
+	border-radius: 5px;
+	border: none;
+	background-color: #4CAF50;
+	color: #fff;
+	cursor: pointer;
+	font-size: 1em;
+	margin-right: 10px;
+}
+
+form table td input[type="submit"]:hover,
+form table td input[type="reset"]:hover,
+form table td input[type="button"]:hover {
+	background-color: #3e8e41;
+}

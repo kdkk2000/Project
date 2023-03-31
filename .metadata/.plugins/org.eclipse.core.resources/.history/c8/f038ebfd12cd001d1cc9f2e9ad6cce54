@@ -1,0 +1,98 @@
+@charset "UTF-8";
+* {
+	margin: 0;
+  	padding: 0;
+  	box-sizing: border-box;
+}
+
+body {
+  	font-family: Arial, sans-serif;
+  	background-color: #f7f7f7;
+}
+
+.container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1 {
+  	font-size: 32px;
+  	font-weight: bold;
+  	margin-bottom: 20px;
+}
+
+form {
+  	background-color: #fff;
+  	border: 1px solid #ccc;
+  	padding: 20px;
+}
+
+form input[type="text"], form textarea {
+  	width: 70%;
+  	padding: 10px;
+  	margin-bottom: 10px;
+  	border: 1px solid #ccc;
+  	border-radius: 5px;
+}
+
+form input[type="file"] {
+  	margin-top: 10px;
+}
+
+form input[type="submit"], form input[type="reset"], form input[type="button"] {
+  	display: inline-block;
+  	padding: 10px 20px;
+  	margin-right: 10px;
+  	border: none;
+  	border-radius: 5px;
+  	background-color: #4CAF50;
+  	color: #fff;
+  	cursor: pointer;
+}
+
+form input[type="submit"]:hover, form input[type="reset"]:hover, form input[type="button"]:hover {
+  	background-color: #3e8e41;
+}
+
+table {
+  	width: 100%;
+  	border-collapse: collapse;
+}
+
+table td {
+  	padding: 6px;
+  	border: 1px solid #ccc;
+  	text-align: center;
+  	cursor: pointer;
+}
+.paging {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  position: fixed;
+  bottom: 240px; 
+  left: 0;
+  right: 0;
+  background-color: #fff;
+  z-index: 1;
+}
+
+.paging a, .paging b {
+  display: inline-block;
+  margin: 0 5px;
+  padding: 5px 10px;
+  background-color: #4CAF50;
+  color: #fff;
+  border-radius: 5px;
+}
+
+.paging a:hover {
+  background-color: #3e8e41;
+}
+
+.paging b {
+  background-color: #eee;
+  color: #444;
+}

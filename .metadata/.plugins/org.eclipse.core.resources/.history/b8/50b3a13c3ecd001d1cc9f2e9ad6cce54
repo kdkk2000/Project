@@ -1,0 +1,32 @@
+package com.lec.ex.service;
+
+import java.sql.Date;
+
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+import javax.servlet.http.HttpSession;
+
+import com.lec.ex.dao.NoticeDao;
+import com.lec.ex.dto.NoticeDto;
+
+public class NoticeModifyService implements Service {
+
+	@Override
+	public void execute(HttpServletRequest request, HttpServletResponse response) {
+		int noticeId = Integer.parseInt(request.getParameter("noticeId"));
+		String noticeTitle = request.getParameter("noticeTitle");
+		String noticeContent = request.getParameter("noticeContent");
+		Date noticeRdate = new Date(System.currentTimeMillis());
+		HttpSession session = request.getSession();
+		String adminId = (String)session.getAttribute("adminId");
+		NoticeDto dto = new NoticeDto(noticeId, noticeTitle, noticeContent, noticeRdate, adminId);
+		NoticeDao dao = NoticeDao.getInstance();
+		int result = dao.update(dto, adminId);
+		if (result > 0) {
+			session.setAttribute("modifyResult", result);
+		} else {
+			session.setAttribute("modifyResult", -1);
+		}
+	}
+
+}

@@ -1,0 +1,20 @@
+package com.lec.ex.dto;
+
+import java.sql.Timestamp;
+
+public class BoardDto {
+    private int boardId;
+    private String userId;
+    private String userName;
+    private String boardTitle;
+    private String boardContent;
+    private String boardFileName;
+    private Timestamp boardRdate;
+    private int boardHit;
+    private int boardGroup;
+    private int boardStep;
+    private int boardIndent;
+    private String boardIp;
+    private Date boardDate;
+	
+}

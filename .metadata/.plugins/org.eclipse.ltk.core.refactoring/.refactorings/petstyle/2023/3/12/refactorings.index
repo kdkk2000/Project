@@ -1,0 +1,59 @@
+1679284971448	Copy package
+1679285031841	Delete element
+1679285034968	Delete element
+1679285512141	Delete element
+1679296114206	Rename compilation unit 'Product_Review.java'
+1679296121454	Rename compilation unit 'Review.java'
+1679296277054	Rename compilation unit 'Comment.java'
+1679296316591	Copy compilation unit
+1679296321813	Rename type 'CommentDto'
+1679296326927	Copy compilation unit
+1679296332058	Rename type 'NoticeDto'
+1679296335622	Copy compilation unit
+1679296339446	Rename type 'ProductDto'
+1679296342716	Copy compilation unit
+1679296346153	Rename type 'ReviewDto'
+1679301500092	Delete elements
+1679301505048	Delete elements
+1679375294378	Rename type 'CommentDto'
+1679375301425	Rename type 'CommentDao'
+1679389306604	Rename type 'ModifyService'
+1679389315388	Delete element
+1679389381844	Delete element
+1679389404248	Delete element
+1679389424858	Delete element
+1679445263600	Delete element
+1679445960925	Delete elements
+1679445964909	Delete elements
+1679447315681	Delete element
+1679453599599	Rename compilation unit 'BcommentDao.java'
+1679453609779	Rename type 'BcommentDto'
+1679453981733	Delete element
+1679455177159	Delete element
+1679455744244	Rename type 'NoticeDetailService'
+1679458508207	Delete element
+1679466108724	Rename type 'MemberDto'
+1679467075563	Rename compilation unit 'MemberDao.java'
+1679468926673	Rename type 'MemberDeleteService'
+1679468978565	Rename type 'MemberEmailConfirmService'
+1679468990850	Rename type 'MemberJoinService'
+1679468995710	Rename type 'MemberListService'
+1679469000951	Rename type 'MemberLoginService'
+1679469006959	Rename type 'MemberMidConfirmService'
+1679469011567	Rename type 'MemberModifyService'
+1679469019682	Rename type 'MemberLogoutService'
+1679469024766	Rename type 'MemberViewService'
+1679619188905	Delete element
+1679620477323	Delete element
+1679621880439	Delete element
+1679621909478	Delete element
+1679622117991	Delete element
+1679622441320	Rename type 'UserMidConfirmService'
+1679623139761	Move 'alluser.jsp' to 'admin'
+1679625009264	Delete element
+1679627858686	Delete element
+1679627984337	Move 'alluser.jsp' to 'user'
+1679629778591	Delete element
+1679632277705	Copy file
+1679632666211	Delete element
+1679635813062	Delete element

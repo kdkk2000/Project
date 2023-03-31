@@ -1,0 +1,78 @@
+@charset "UTF-8";
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f7f7f7;
+}
+
+#content_form {
+    margin: 50px auto;
+    width: 600px;
+    text-align: left;
+}
+
+table {
+    border-collapse: collapse;
+    margin: 0 auto;
+    width: 100%;
+    font-size: 16px;
+}
+
+table caption {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+table td, table th {
+    padding: 10px;
+    border: 1px solid #ccc;
+    text-align: left;
+}
+
+table th {
+    background-color: lemon;
+    color: black;
+    font-size: 14px;
+}
+
+table td:first-child {
+    font-weight: bold;
+    width: 100px;
+    text-align: left;
+}
+
+table td pre {
+    white-space: pre-wrap;
+    text-align: left;
+}
+
+table tr:last-child td {
+    text-align: left;
+}
+
+button {
+    background-color: #4CAF50;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    cursor: pointer;
+    padding: 10px 12px;
+    font-size: 12px;
+}
+
+button:hover {
+    background-color: black;
+}
+
+button:last-child {
+    margin-right: 0;
+}
+

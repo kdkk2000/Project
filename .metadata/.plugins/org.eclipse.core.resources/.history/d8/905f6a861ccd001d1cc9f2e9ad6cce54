@@ -1,0 +1,23 @@
+package com.lec.ex.service;
+
+import java.sql.SQLException;
+
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+import com.lec.ex.dao.AdminDao;
+
+public class AdminDeleteService implements Service {
+	
+    @Override
+    public void execute(HttpServletRequest request, HttpServletResponse response) {
+        String adminId = request.getParameter("adminId");
+        AdminDao adminDao = AdminDao.getInstance();
+        try {
+            int result = adminDao.delete(adminId);
+            request.setAttribute("result", result);
+        } catch (SQLException e) {
+            e.printStackTrace();
+        }
+    }
+}

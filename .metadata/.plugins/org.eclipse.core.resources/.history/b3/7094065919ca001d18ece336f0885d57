@@ -1,0 +1,42 @@
+package com.lec.ex.service;
+
+import java.sql.Date;
+
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+import javax.servlet.http.HttpSession;
+
+import com.lec.ex.dao.UserDao;
+import com.lec.ex.dto.UserDto;
+
+public class UserJoinService implements Service {
+
+	@Override
+	public void execute(HttpServletRequest request, HttpServletResponse response) {
+		String userId = request.getParameter("userId");
+		String userPw = request.getParameter("userPw");
+		String userName = request.getParameter("userName");
+		String userEmail = request.getParameter("userEmail");
+		String userPhone = request.getParameter("userPhone");
+		String userAddress = request.getParameter("userAddress");
+		String userDate = request.getParameter("userDate");
+		
+		UserDao mDao = UserDao.getInstance();
+		// userId 중복 체크
+		int result = mDao.userIdConfirm(userId);
+		if (result == UserDao.NONEXISTENT) { // 가입 가능한 userId이면 회원가입
+			UserDto user = new UserDto(userId, userPw, userName, userEmail, userPhone, userAddress, date);
+			// 회원가입
+			result = mDao.joinUser(user);
+			if (result == UserDao.SUCCESS) {
+				HttpSession session = request.getSession(); // 세션은 request로부터
+				session.setAttribute("userId", userId);
+				request.setAttribute("joinResult", "회원가입이 완료되었습니다.");
+			} else {
+				request.setAttribute("joinErrorMsg", "회원가입에 실패하였습니다.");
+			}
+		} else {
+			request.setAttribute("joinErrorMsg", "중복된 ID가 존재합니다.");
+		}
+	}
+}

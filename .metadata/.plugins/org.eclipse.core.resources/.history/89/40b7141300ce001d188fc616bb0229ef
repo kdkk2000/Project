@@ -1,0 +1,25 @@
+package com.lec.ex.service;
+
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+import javax.servlet.http.HttpSession;
+
+import com.lec.ex.dao.UserDao;
+
+public class UserDeleteService implements Service {
+
+	@Override
+	public void execute(HttpServletRequest request, HttpServletResponse response) {
+		HttpSession session = request.getSession();
+		String userId = (String) session.getAttribute("userId");
+		UserDao dao = UserDao.getInstance();
+		int result = dao.deleteUser(userId);
+		if (result == UserDao.SUCCESS) {
+			session.invalidate();
+			request.setAttribute("deleteResult", "회원탈퇴가 완료되었습니다.");
+		} else {
+			request.setAttribute("deleteResult", "회원탈퇴에 실패했습니다.");
+		}
+	}
+
+}

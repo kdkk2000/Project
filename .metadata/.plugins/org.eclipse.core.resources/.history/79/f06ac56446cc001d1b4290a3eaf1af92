@@ -1,0 +1,38 @@
+package com.lec.ex.dto;
+
+import java.sql.Timestamp;
+
+public class BoardDto {
+	private int boardId;
+	private String userId;
+	private String userName; // join해서 출력
+	private String boardTitle;
+	private String boardContent;
+	private String boardFileName;
+	private Timestamp boardDate;
+	private int boardHit;
+	private int boardGroup;
+	private int boardStep;
+	private int boardIndent;
+	private String boardIp;
+	public BoardDto() {}
+	public BoardDto(int boardId, String userId, String userName, String boardTitle, String boardContent,
+			String boardFileName, Timestamp boardDate, int boardHit, int boardGroup, int boardStep, int boardIndent,
+			String boardIp) {
+		super();
+		this.boardId = boardId;
+		this.userId = userId;
+		this.userName = userName;
+		this.boardTitle = boardTitle;
+		this.boardContent = boardContent;
+		this.boardFileName = boardFileName;
+		this.boardDate = boardDate;
+		this.boardHit = boardHit;
+		this.boardGroup = boardGroup;
+		this.boardStep = boardStep;
+		this.boardIndent = boardIndent;
+		this.boardIp = boardIp;
+	}
+
+	
+}

@@ -1,0 +1,61 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+pageEncoding="UTF-8"%>
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
+<%@ taglib prefix="fmt" uri="http://java.sun.com/jsp/jstl/fmt"%>
+<c:set var="conPath" value="${pageContext.request.contextPath }"/>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>관리자 정보</title>
+    <link href="${conPath }/css/style.css" rel="stylesheet">
+    <style>
+        #content_form {
+            height: 570px;
+            margin: 130px auto 0px;
+        }
+    </style>
+</head>
+<body>
+    <c:if test="${not empty loginErrorMsg}">
+        <script>
+            alert('${loginErrorMsg}');
+        </script>
+    </c:if>
+    <jsp:include page="../main/header.jsp" />
+    <div id="content_form">
+        <h1>관리자 정보</h1>
+        <hr>
+        <form action="${conPath}/modifyAdminInfo.do" method="post">
+            <table>
+                <tr>
+                    <th>아이디</th>
+                    <td>${admin.adminId}</td>
+                </tr>
+                <tr>
+                    <th>이름</th>
+                    <td>${admin.adminName}</td>
+                </tr>
+                <tr>
+                    <th>이메일</th>
+                    <td>${admin.adminEmail}</td>
+                </tr>
+                <tr>
+                    <th>전화번호</th>
+                    <td>${admin.adminPhone}</td>
+                </tr>
+                <tr>
+                    <td colspan="2">
+                        <p>
+                            <input type="button" value="수정" class="btn" onclick="location='${conPath}/modifyAdminInfoView.do'">
+                            <input type="button" value="비밀번호 변경" class="btn" onclick="location='${conPath}/modifyAdminPwView.do'">
+                        </p>
+                    </td>
+                </tr>
+            </table>
+        </form>
+    </div>
+    <jsp:include page="../main/footer.jsp" />
+</body>
+</html>

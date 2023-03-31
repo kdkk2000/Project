@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="javax.naming.Context"/>
+<fullyQualifiedTypeName name="javax.naming.InitialContext"/>
+<fullyQualifiedTypeName name="javax.sql.DataSource"/>
+<fullyQualifiedTypeName name="javax.naming.NamingException"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="com.lec.ex.dto.MemberDto"/>
+<fullyQualifiedTypeName name="com.lec.ex.dto.ProductDto"/>
+<fullyQualifiedTypeName name="java.sql.SQLException"/>
+<fullyQualifiedTypeName name="com.lec.ex.dto.CommentsDto"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="javax.servlet.http.HttpSession"/>
+<fullyQualifiedTypeName name="java.sql.Date"/>
+<fullyQualifiedTypeName name="com.lec.ex.dto.BoardDto"/>
+<fullyQualifiedTypeName name="com.lec.ex.dto.AdminDto"/>
+<fullyQualifiedTypeName name="com.lec.ex.dao.NoticeDao"/>
+<fullyQualifiedTypeName name="com.lec.ex.dto.NoticeDto"/>
+<fullyQualifiedTypeName name="com.lec.ex.dao.BoardDao"/>
+<fullyQualifiedTypeName name="com.lec.ex.dao.UserDao"/>
+<fullyQualifiedTypeName name="com.lec.ex.dto.UserDto"/>
+<fullyQualifiedTypeName name="com.lec.ex.dao.AdminDao"/>
+</qualifiedTypeNameHistroy>

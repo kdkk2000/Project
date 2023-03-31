@@ -1,0 +1,235 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<%@taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
+<%@taglib prefix="fmt" uri="http://java.sun.com/jsp/jstl/fmt" %>
+<c:set var="conPath" value="${pageContext.request.contextPath }"/>
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Insert title here</title>
+	<link href="${conPath }/css/main.css" rel="stylesheet">
+<style>
+	*{padding:0; margin: 0;}
+	header { 	
+		background-color: black; font-size: 10pt; color: white;
+	}
+	header a {text-decoration: none; font-weight: bold;}
+	header li {list-style: none;}
+	header .gnb {
+	    width: 100%;
+	    background-color: white;
+	    margin-left: auto;
+	}
+	header .gnb ul {
+		overflow: hidden;
+		width:700px;
+		height: 30px;
+		line-height: 30px;
+		margin: 0 auto;
+	}
+	header .gnb ul li {	float: right; margin-right:10px;}
+	header .gnb a { 
+		color : black;
+		font-size: 0.9em;
+		display: block;
+		padding-left:15px;
+		padding-right:15px;
+	}
+	header .gnb a:hover {
+		font-size: 1.2em;
+  		background-color: black;
+  		color: white;
+	}
+
+	header .logo{
+		width:140px; text-align:center;
+		margin: 20px auto; font-size:3em;
+		cursor: pointer;
+	}
+	header .lnb {
+		background-color: ivory;
+	  	width: 100%; height: 40px;
+	  	border-top: 1px solid red;
+		border-bottom: 1px solid blue;
+		position:relative; /*서브메뉴가 main영역 위로 */
+	}
+	header .lnb ul{
+		text-align:center;
+		overflow: hidden;
+		width:800px;
+		margin: 0 auto;
+	}
+	header .lnb ul>li {
+		font-weight: bold;
+		font-size: 14px;
+		margin: 5px;
+		margin-left: 20px;
+		float:left;
+		padding:5px 30px;
+		line-height: 25px;
+	}
+	header .lnb li:hover {
+  		background-color: black;
+  		color: white;
+	}
+	header .lnb a { 
+		color : white;
+		font-size: 0.9em;
+		display: block;
+		padding-left:15px;
+		padding-right:15px;
+	}
+	header .lnb a:hover {
+  		background-color: yellow;
+  		color: black;
+	}
+	header .lnb li {color: #003300;}
+	header .lnb ul li .subMenu {display:none;}
+	header .lnb ul li:hover .subMenu {display: block; margin: 10px 0 0 0;}
+</style>
+</head>
+<body>
+<header>
+	<c:if test="${empty user and empty admin}"> <%-- 로그인 전 화면 --%>
+		<div class="gnb">
+			<ul>
+				<li><a href="${conPath }/boardList.do">문의게시판</a></li>
+				<li><a href="${conPath }/joinView.do">회원가입</a></li>
+				<li><a href="${conPath }/loginView.do">로그인</a></li>
+			</ul>
+		</div>
+		<div class="logo" onclick="location.href='${conPath}/main.do'">
+			PetStyle Anything
+		</div>
+		<div class="lnb">
+			<ul>
+				<li>공지사항
+					<ol class="subMenu">
+						<li><a href="${conPath }/noticeList.do">공지사항</a></li>
+					</ol>
+				</li>
+				<li>포메라니언
+					<ol class="subMenu">
+						<li><a href="../fileBoardUp/dog.jpg">곰돌이컷</a></li>
+						<li><a href="#">물개컷</a></li>
+						<li><a href="#">포메컷</a></li>
+						<li><a href="#">라이언컷</a></li>
+						<li><a href="#">풀코트</a></li>
+					</ol>
+				</li>
+				<li>말티즈
+					<ol class="subMenu">
+						<li><a href="#">알밤컷</a></li>
+						<li><a href="#">곰돌이컷</a></li>
+						<li><a href="#">베이비컷 </a></li>
+						<li><a href="#">무스타슈 </a></li>
+					</ol>
+				</li>
+				<li>비숑
+					<ol class="subMenu">
+						<li><a href="#">하이바컷</a></li>
+						<li><a href="#">귀툭튀컷</a></li>
+					</ol>
+				</li>
+				<li>푸들
+					<ol class="subMenu">
+						<li><a href="#">양컷</a></li>
+						<li><a href="#">몽키컷</a></li>
+						<li><a href="#">브로콜리컷</a></li>
+						<li><a href="#">테디베어컷</a></li>
+						<li><a href="#">귀똑컷</a></li>
+					</ol>
+				</li>
+			</ul>
+		</div>
+	</c:if>
+	<c:if test="${not empty user and empty admin}"> <%-- 사용자 모드 로그인 화면--%>
+		<div class="gnb">
+			<ul>
+				<li><a href="${conPath }/boardList.do">문의게시판</a></li>
+				<li><a href="${conPath }/logout.do">로그아웃</a></li>
+				<li><a href="${conPath }/modifyView.do">정보수정</a></li>
+				<li><a>${user.userName }님 &nbsp; ▶</a></li>	
+			</ul>
+		</div>
+		<div class="logo" onclick="location.href='${conPath}/main.do'">
+			PetStyle Anything
+		</div>
+		<div class="lnb">
+			<ul>
+				<li>공지사항
+					<ol class="subMenu">
+						<li><a href="${conPath }/noticeList.do">공지사항</a></li>
+					</ol>
+				</li>
+				<li>포메라니언
+					<ol class="subMenu">
+						<li><a href="#">곰돌이컷</a></li>
+						<li><a href="#">물개컷</a></li>
+						<li><a href="#">포메컷</a></li>
+						<li><a href="#">라이언컷</a></li>
+						<li><a href="#">풀코트컷</a></li>
+					</ol>
+				</li>
+				<li>말티즈	
+					<ol class="subMenu">
+						<li><a href="#">알밤컷</a></li>
+						<li><a href="#">곰돌이컷</a></li>
+						<li><a href="#">베이비컷 </a></li>
+						<li><a href="#">무스타슈컷 </a></li>
+					</ol>
+				</li>
+				<li>비숑
+					<ol class="subMenu">
+						<li><a href="#">하이바컷</a></li>
+						<li><a href="#">귀툭튀컷</a></li>
+					</ol>
+				</li>
+				<li>푸들
+					<ol class="subMenu">
+						<li><a href="#">양컷</a></li>
+						<li><a href="#">몽키컷</a></li>
+						<li><a href="#">브로콜리컷</a></li>
+						<li><a href="#">테디베어컷</a></li>
+						<li><a href="#">귀똑컷</a></li>
+					</ol>
+				</li>
+			</ul>
+		</div>
+	</c:if>
+	<c:if test="${empty user and not empty admin}"> <%-- 관리자 모드 로그인 화면--%>
+		<div class="gnb">
+			<ul>
+				<li><a href="${conPath }/boardList.do">문의게시판</a></li>
+				<li><a href="${conPath }/logout.do">관리자모드나가기</a></li>
+				<li><a href="${conPath }/adminModify.do">정보수정</a></li>
+				<li><a>${admin.adminName }님 &nbsp; ▶</a></li>	
+			</ul>
+		</div>
+		<div class="logo" onclick="location.href='${conPath}/main.do'">
+			PetStyle Anything
+		</div>
+		<div class="lnb">
+			<ul>
+				<li>공지사항
+					<ol class="subMenu">
+						<li><a href="${conPath }/noticeList.do">공지사항</a></li>
+					</ol>
+				</li>
+				<li>회원 리스트
+					<ol class="subMenu">
+						<li><a href="${conPath }/allUser.do">회원 리스트</a></li>
+					</ol>
+				</li>
+				<li>관리자 메모장
+					<ol class="subMenu">
+						<li><a href="#">관리자 메모장</a></li>
+					</ol>
+				</li>
+			</ul>
+		</div>
+	</c:if>
+</header>
+</body>
+</html>

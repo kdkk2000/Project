@@ -1,0 +1,28 @@
+package com.lec.ex.service;
+
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+import com.lec.ex.dao.BoardDao;
+
+public class BoardDeleteService implements Service {
+
+	@Override
+	public void execute(HttpServletRequest request, HttpServletResponse response) {
+		String boardId = request.getParameter("boardId");
+		if (boardId == null || boardId.trim().isEmpty()) {
+			request.setAttribute("boardResult", "글 삭제 실패: boardId 값이 올바르지 않습니다.");
+			return;
+		}
+		
+		String boardId = Integer.parseInt(boardId);
+		BoardDao boardDao = BoardDao.getInstance();
+		int deleteCnt = boardDao.deleteBoard(boardId);
+		if (deleteCnt == BoardDao.SUCCESS) {
+			request.setAttribute("boardResult", "글 삭제 성공");
+		} else {
+			request.setAttribute("boardResult", "글 삭제 실패");
+		}
+	}
+
+}

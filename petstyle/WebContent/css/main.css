@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+#content_form1 {
+	background-image: url("../fileBoardUp/dog.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	width: 800px;
+	height: 600px;
+	margin: 0 auto;
+	text-align: center;
+	font-size: 1em;
+}

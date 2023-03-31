@@ -1,0 +1,83 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #f7f7f7;
+}
+
+#content_form {
+  margin: 50px auto;
+  width: 300px;
+}
+
+table {
+  border-collapse: collapse;
+  margin: 0 auto;
+  width: 50%;
+  font-size: 16px;
+}
+
+table caption {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+table th {
+  background-color: beige;
+  color: black;
+  font-size: 14px;
+  padding: 10px;
+  text-align: center;
+}
+
+table td {
+  border: 1px solid #ccc;
+  padding: 10px;
+}
+
+table td:first-child {
+  font-weight: bold;
+  width: 100px;
+}
+
+input[type="text"],
+input[type="password"],
+textarea {
+  border: 1px solid #ccc;
+  padding: 6px;
+  font-size: 12px;
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+#userIdConfirmResult,
+#userPwChkResult,
+#userEmailConfirmResult {
+  font-size: 12px;
+  font-weight: bold;
+  color: #333;
+  margin-top: 5px;
+}
+
+.btn {
+  background-color: #4CAF50;
+  border: none;
+  border-radius: 5px;
+  color: #fff;
+  cursor: pointer;
+  padding: 5px 10px;
+  font-size: 12px;
+  text-align: center;
+}
+
+.btn:hover {
+  background-color: black;
+}
+
+.btn:last-child {
+  margin-right: 0;
+}

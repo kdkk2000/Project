@@ -1,0 +1,26 @@
+package com.lec.ex.service;
+
+import java.sql.SQLException;
+import java.util.ArrayList;
+
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+import com.lec.ex.dao.AdminDao;
+import com.lec.ex.dto.AdminDto;
+
+public class AdminListService implements Service {
+	
+    @Override
+    public void execute(HttpServletRequest request, HttpServletResponse response) {
+    	ArrayList<AdminDto> adminList = null;
+        AdminDao adminDao = AdminDao.getInstance();
+        try {
+            adminList = adminDao.selectAll();
+            request.setAttribute("adminList", adminList);
+        } catch (SQLException e) {
+            e.printStackTrace();
+        }
+    }
+}
+

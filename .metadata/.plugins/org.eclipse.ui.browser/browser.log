@@ -1,0 +1,309 @@
+
+3월 24, 2023 09:39:03.604 NEW SESSION
+3월 24, 2023 09:39:03.604 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 24, 2023 09:40:24.77 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 24, 2023 10:10:25.451 [10444:3900:0324/101025.451:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+3월 24, 2023 10:10:32.875 [10444:3900:0324/101032.875:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+3월 24, 2023 10:10:33.273 [10444:3900:0324/101033.273:ERROR:device_event_log_impl.cc(222)] [10:10:33.273] Bluetooth: bluetooth_adapter_winrt.cc:1073 Getting Default Adapter failed.
+3월 24, 2023 11:17:00.758 [10444:8168:0324/111700.758:ERROR:mcs_client.cc(750)] Received close command, resetting connection.
+3월 24, 2023 11:41:36.213 [10444:3900:0324/114136.213:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+3월 24, 2023 11:41:40.372 [10444:3900:0324/114140.372:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+3월 24, 2023 11:57:25.368 [10444:3900:0324/115725.368:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+3월 24, 2023 12:09:30.28 [10444:3900:0324/120930.028:ERROR:device_event_log_impl.cc(222)] [12:09:30.027] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+3월 24, 2023 13:23:42.26 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 24, 2023 13:23:54.909 [3000:6768:0324/132354.908:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+3월 24, 2023 13:37:03.822 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 24, 2023 13:38:54.405 [10680:12832:0324/133854.405:ERROR:sharing_service.cc(252)] Device un-registration failed with fatal error
+3월 24, 2023 13:51:04.259 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 24, 2023 13:51:15.30 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 24, 2023 13:54:04.483 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 24, 2023 13:54:44.238 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 24, 2023 14:03:58.397 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 24, 2023 14:05:36.262 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 24, 2023 14:10:48.826 [5604:11404:0324/141048.826:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+3월 24, 2023 14:10:55.572 [5604:11404:0324/141055.572:ERROR:device_event_log_impl.cc(222)] [14:10:55.572] Bluetooth: bluetooth_adapter_winrt.cc:1073 Getting Default Adapter failed.
+3월 24, 2023 14:22:41.546 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 24, 2023 14:24:40.661 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 24, 2023 14:27:41.147 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 24, 2023 14:39:03.145 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 24, 2023 16:25:17.709 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 24, 2023 16:27:38.965 [11684:4984:0324/162738.965:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+3월 24, 2023 17:25:56.917 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+3월 27, 2023 09:43:07.905 NEW SESSION
+3월 27, 2023 09:43:07.905 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 27, 2023 09:44:15.127 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+3월 27, 2023 09:46:12.464 [984:8016:0327/094612.463:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+3월 27, 2023 09:46:14.917 [984:8016:0327/094614.917:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+3월 27, 2023 09:46:14.918 [984:8016:0327/094614.917:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+3월 27, 2023 09:46:18.153 [984:8016:0327/094618.152:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+
+3월 27, 2023 10:14:38.651 NEW SESSION
+3월 27, 2023 10:14:38.651 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 27, 2023 10:14:52.175 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+3월 27, 2023 10:17:59.212 NEW SESSION
+3월 27, 2023 10:17:59.212 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 27, 2023 10:18:36.259 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 27, 2023 10:21:40.535 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 27, 2023 10:21:58.596 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 27, 2023 10:22:04.585 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+3월 27, 2023 10:22:45.535 NEW SESSION
+3월 27, 2023 10:22:45.535 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+3월 27, 2023 11:01:00.706 NEW SESSION
+3월 27, 2023 11:01:00.706 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 27, 2023 11:08:28.781 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 27, 2023 11:24:26.215 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 27, 2023 11:29:47.670 [12716:10408:0327/112947.670:ERROR:sharing_service.cc(252)] Device un-registration failed with fatal error
+3월 27, 2023 11:32:45.933 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 27, 2023 11:33:25.472 [10724:2468:0327/113325.472:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+3월 27, 2023 12:02:50.358 [10724:2468:0327/120250.358:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.379 s for first_image_paint 0.369 s
+3월 27, 2023 12:02:50.461 [10724:2468:0327/120250.460:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.379 s for first_image_paint 0.369 s
+3월 27, 2023 12:02:50.564 [10724:2468:0327/120250.563:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.379 s for first_image_paint 0.369 s
+3월 27, 2023 12:02:50.666 [10724:2468:0327/120250.666:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.379 s for first_image_paint 0.369 s
+3월 27, 2023 12:02:50.781 [10724:2468:0327/120250.781:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.379 s for first_image_paint 0.369 s
+3월 27, 2023 12:02:50.887 [10724:2468:0327/120250.887:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.379 s for first_image_paint 0.369 s
+3월 27, 2023 12:02:51.243 [10724:2468:0327/120251.243:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.379 s for first_image_paint 0.369 s
+3월 27, 2023 12:02:51.350 [10724:2468:0327/120251.350:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.379 s for first_image_paint 0.369 s
+3월 27, 2023 12:02:51.464 [10724:2468:0327/120251.464:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.379 s for first_image_paint 0.369 s
+3월 27, 2023 12:02:51.571 [10724:2468:0327/120251.571:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.379 s for first_image_paint 0.369 s
+3월 27, 2023 12:02:51.755 [10724:2468:0327/120251.754:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.379 s for first_image_paint 0.369 s
+3월 27, 2023 12:02:51.906 [10724:2468:0327/120251.906:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.379 s for first_image_paint 0.369 s
+3월 27, 2023 12:02:52.15 [10724:2468:0327/120252.015:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.379 s for first_image_paint 0.369 s
+3월 27, 2023 12:02:52.118 [10724:2468:0327/120252.118:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.379 s for first_image_paint 0.369 s
+3월 27, 2023 12:02:52.270 [10724:2468:0327/120252.270:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.379 s for first_image_paint 0.369 s
+3월 27, 2023 12:02:52.388 [10724:2468:0327/120252.387:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.379 s for first_image_paint 0.369 s
+3월 27, 2023 12:02:52.490 [10724:2468:0327/120252.490:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.379 s for first_image_paint 0.369 s
+3월 27, 2023 12:02:52.658 [10724:2468:0327/120252.658:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.379 s for first_image_paint 0.369 s
+3월 27, 2023 12:02:52.812 [10724:2468:0327/120252.812:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.379 s for first_image_paint 0.369 s
+3월 27, 2023 12:02:52.936 [10724:2468:0327/120252.936:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.379 s for first_image_paint 0.369 s
+3월 27, 2023 12:02:53.792 [10724:2468:0327/120253.791:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.379 s for first_image_paint 0.369 s
+3월 27, 2023 12:02:53.910 [10724:2468:0327/120253.910:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.379 s for first_image_paint 0.369 s
+3월 27, 2023 12:02:54.27 [10724:2468:0327/120254.027:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.379 s for first_image_paint 0.369 s
+3월 27, 2023 12:02:54.748 [10724:2468:0327/120254.747:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.379 s for first_image_paint 0.369 s
+3월 27, 2023 12:02:54.855 [10724:2468:0327/120254.855:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.379 s for first_image_paint 0.369 s
+3월 27, 2023 12:02:55.255 [10724:2468:0327/120255.254:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.379 s for first_image_paint 0.369 s
+3월 27, 2023 12:02:55.361 [10724:2468:0327/120255.360:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.379 s for first_image_paint 0.369 s
+3월 27, 2023 12:02:56.105 [10724:2468:0327/120256.105:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.379 s for first_image_paint 0.369 s
+3월 27, 2023 12:03:05.955 [10724:2468:0327/120305.955:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.379 s for first_image_paint 0.369 s
+3월 27, 2023 12:03:08.630 [10724:2468:0327/120308.630:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.379 s for first_image_paint 0.369 s
+3월 27, 2023 12:03:08.746 [10724:2468:0327/120308.746:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.379 s for first_image_paint 0.369 s
+3월 27, 2023 12:03:08.988 [10724:2468:0327/120308.988:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.379 s for first_image_paint 0.369 s
+3월 27, 2023 12:03:09.96 [10724:2468:0327/120309.096:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.379 s for first_image_paint 0.369 s
+3월 27, 2023 12:03:11.995 [10724:2468:0327/120311.995:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.379 s for first_image_paint 0.369 s
+3월 27, 2023 12:03:12.222 [10724:2468:0327/120312.222:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.379 s for first_image_paint 0.369 s
+3월 27, 2023 12:03:12.430 [10724:2468:0327/120312.430:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.379 s for first_image_paint 0.369 s
+3월 27, 2023 12:03:12.635 [10724:2468:0327/120312.635:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.379 s for first_image_paint 0.369 s
+3월 27, 2023 12:03:12.965 [10724:2468:0327/120312.964:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.379 s for first_image_paint 0.369 s
+3월 27, 2023 12:03:13.83 [10724:2468:0327/120313.082:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.379 s for first_image_paint 0.369 s
+3월 27, 2023 12:03:13.185 [10724:2468:0327/120313.185:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.379 s for first_image_paint 0.369 s
+3월 27, 2023 12:04:03.340 [10724:2468:0327/120403.340:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.379 s for first_image_paint 0.369 s
+3월 27, 2023 12:04:04.558 [10724:2468:0327/120404.558:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.379 s for first_image_paint 0.369 s
+3월 27, 2023 12:04:08.677 [10724:2468:0327/120408.677:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.379 s for first_image_paint 0.369 s
+3월 27, 2023 12:04:09.424 [10724:2468:0327/120409.424:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.379 s for first_image_paint 0.369 s
+3월 27, 2023 12:04:09.725 [10724:2468:0327/120409.725:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.379 s for first_image_paint 0.369 s
+3월 27, 2023 12:04:10.70 [10724:2468:0327/120410.070:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.379 s for first_image_paint 0.369 s
+3월 27, 2023 12:04:12.206 [10724:2468:0327/120412.206:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.379 s for first_image_paint 0.369 s
+3월 27, 2023 12:04:12.478 [10724:2468:0327/120412.478:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.379 s for first_image_paint 0.369 s
+3월 27, 2023 12:04:12.589 [10724:2468:0327/120412.589:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.379 s for first_image_paint 0.369 s
+3월 27, 2023 12:04:12.705 [10724:2468:0327/120412.705:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.379 s for first_image_paint 0.369 s
+3월 27, 2023 12:04:49.612 [10724:2468:0327/120449.612:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.379 s for first_image_paint 0.369 s
+3월 27, 2023 12:04:50.340 [10724:2468:0327/120450.339:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.379 s for first_image_paint 0.369 s
+3월 27, 2023 12:04:50.459 [10724:2468:0327/120450.459:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.379 s for first_image_paint 0.369 s
+3월 27, 2023 12:04:50.746 [10724:2468:0327/120450.746:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.379 s for first_image_paint 0.369 s
+3월 27, 2023 12:04:50.857 [10724:2468:0327/120450.857:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.379 s for first_image_paint 0.369 s
+3월 27, 2023 12:04:51.284 [10724:2468:0327/120451.284:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.379 s for first_image_paint 0.369 s
+3월 27, 2023 12:04:51.391 [10724:2468:0327/120451.391:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.379 s for first_image_paint 0.369 s
+3월 27, 2023 12:04:58.487 [10724:2468:0327/120458.487:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.379 s for first_image_paint 0.369 s
+3월 27, 2023 12:04:58.604 [10724:2468:0327/120458.604:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.379 s for first_image_paint 0.369 s
+3월 27, 2023 12:05:01.204 [10724:2468:0327/120501.203:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.379 s for first_image_paint 0.369 s
+3월 27, 2023 12:05:01.311 [10724:2468:0327/120501.311:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.379 s for first_image_paint 0.369 s
+3월 27, 2023 12:05:01.766 [10724:2468:0327/120501.765:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.379 s for first_image_paint 0.369 s
+3월 27, 2023 12:05:01.868 [10724:2468:0327/120501.868:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.379 s for first_image_paint 0.369 s
+3월 27, 2023 12:05:02.298 [10724:2468:0327/120502.297:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.379 s for first_image_paint 0.369 s
+3월 27, 2023 12:05:02.405 [10724:2468:0327/120502.405:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.379 s for first_image_paint 0.369 s
+3월 27, 2023 12:05:08.328 [10724:2468:0327/120508.328:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.379 s for first_image_paint 0.369 s
+3월 27, 2023 12:05:08.445 [10724:2468:0327/120508.445:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.379 s for first_image_paint 0.369 s
+3월 27, 2023 12:05:08.548 [10724:2468:0327/120508.548:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.379 s for first_image_paint 0.369 s
+3월 27, 2023 12:12:16.917 [10724:2468:0327/121216.917:ERROR:page_load_metrics_update_dispatcher.cc(178)] Invalid first_paint 0.379 s for first_image_paint 0.369 s
+3월 27, 2023 12:47:21.311 [10724:2468:0327/124721.310:ERROR:device_event_log_impl.cc(222)] [12:47:21.311] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+3월 27, 2023 13:07:09.42 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 27, 2023 13:07:16.422 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 27, 2023 13:07:28.380 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 27, 2023 13:07:35.877 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 27, 2023 13:10:43.200 [4500:10820:0327/131043.199:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+3월 27, 2023 13:10:49.812 [4500:10820:0327/131049.811:ERROR:device_event_log_impl.cc(222)] [13:10:49.811] Bluetooth: bluetooth_adapter_winrt.cc:1073 Getting Default Adapter failed.
+3월 27, 2023 15:49:16.769 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 27, 2023 15:49:49.581 [8900:536:0327/154949.580:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+3월 27, 2023 15:49:57.679 [8900:536:0327/154957.678:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+3월 27, 2023 15:50:47.705 [8900:536:0327/155047.705:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+3월 27, 2023 15:50:54.626 [8900:536:0327/155054.625:ERROR:device_event_log_impl.cc(222)] [15:50:54.625] Bluetooth: bluetooth_adapter_winrt.cc:1073 Getting Default Adapter failed.
+3월 27, 2023 16:09:05.257 [8900:536:0327/160905.257:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+3월 27, 2023 16:13:32.541 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 27, 2023 17:24:45.70 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 27, 2023 17:34:51.257 [7276:7892:0327/173451.256:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+
+3월 27, 2023 17:56:02.809 NEW SESSION
+3월 27, 2023 17:56:02.809 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 27, 2023 18:00:32.113 [3928:1372:0327/180032.113:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+3월 27, 2023 18:26:34.791 [3928:1372:0327/182634.791:ERROR:sharing_service.cc(252)] Device un-registration failed with fatal error
+
+3월 28, 2023 09:34:32.617 NEW SESSION
+3월 28, 2023 09:34:32.617 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 28, 2023 09:37:17.760 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 28, 2023 09:42:02.852 [7148:8108:0328/094202.851:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+3월 28, 2023 09:42:10.451 [7148:8108:0328/094210.451:ERROR:device_event_log_impl.cc(222)] [09:42:10.451] Bluetooth: bluetooth_adapter_winrt.cc:1073 Getting Default Adapter failed.
+3월 28, 2023 10:39:26.649 [7148:8108:0328/103926.649:ERROR:sharing_service.cc(252)] Device un-registration failed with fatal error
+3월 28, 2023 10:42:26.581 [7148:8108:0328/104226.580:ERROR:device_event_log_impl.cc(222)] [10:42:26.580] Bluetooth: bluetooth_adapter_winrt.cc:1073 Getting Default Adapter failed.
+3월 28, 2023 10:46:54.803 [7148:8108:0328/104654.802:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+3월 28, 2023 10:47:45.961 [7148:8108:0328/104745.961:ERROR:device_event_log_impl.cc(222)] [10:47:45.961] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+3월 28, 2023 11:15:37.209 [7148:8108:0328/111537.209:ERROR:sharing_service.cc(252)] Device un-registration failed with fatal error
+3월 28, 2023 11:15:53.657 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 28, 2023 12:35:32.248 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 28, 2023 12:49:27.276 [6892:8764:0328/124927.275:ERROR:device_event_log_impl.cc(222)] [12:49:27.275] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+3월 28, 2023 13:01:54.701 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 28, 2023 13:08:45.158 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 28, 2023 13:10:25.297 [8972:6056:0328/131025.297:ERROR:device_event_log_impl.cc(222)] [13:10:25.297] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+3월 28, 2023 13:12:03.563 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 28, 2023 13:12:10.436 [6180:8704:0328/131210.436:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+3월 28, 2023 13:12:15.126 [6180:8704:0328/131215.126:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+3월 28, 2023 13:23:51.897 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 28, 2023 13:29:04.89 [2740:3772:0328/132904.089:ERROR:device_event_log_impl.cc(222)] [13:29:04.089] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+3월 28, 2023 13:30:59.616 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 28, 2023 13:34:15.370 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 28, 2023 13:36:44.717 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 28, 2023 13:36:48.508 [8920:5396:0328/133648.507:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+3월 28, 2023 13:44:22.151 [8920:5396:0328/134422.150:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+3월 28, 2023 13:44:29.182 [8920:5396:0328/134429.182:ERROR:device_event_log_impl.cc(222)] [13:44:29.183] Bluetooth: bluetooth_adapter_winrt.cc:1073 Getting Default Adapter failed.
+3월 28, 2023 14:11:00.490 [8920:5396:0328/141100.490:ERROR:sharing_service.cc(252)] Device un-registration failed with fatal error
+3월 28, 2023 14:11:12.954 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 28, 2023 14:13:40.581 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 28, 2023 14:16:48.253 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 28, 2023 14:17:06.863 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 28, 2023 14:17:33.181 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 28, 2023 14:19:49.878 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 28, 2023 14:21:09.06 [9508:7292:0328/142109.005:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+3월 28, 2023 14:21:16.267 [9508:7292:0328/142116.267:ERROR:device_event_log_impl.cc(222)] [14:21:16.267] Bluetooth: bluetooth_adapter_winrt.cc:1073 Getting Default Adapter failed.
+3월 28, 2023 14:34:17.865 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 28, 2023 14:35:10.604 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 28, 2023 14:35:19.754 [9244:876:0328/143519.754:ERROR:sharing_service.cc(252)] Device un-registration failed with fatal error
+3월 28, 2023 14:35:27.923 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 28, 2023 14:40:02.164 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 28, 2023 14:41:37.513 [3300:2404:0328/144137.513:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+3월 28, 2023 14:41:43.292 [3300:2404:0328/144143.292:ERROR:device_event_log_impl.cc(222)] [14:41:43.292] Bluetooth: bluetooth_adapter_winrt.cc:1073 Getting Default Adapter failed.
+3월 28, 2023 15:07:50.204 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 28, 2023 15:24:57.65 [5592:3876:0328/152457.065:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+3월 28, 2023 15:35:34.57 [5592:3876:0328/153534.057:ERROR:device_event_log_impl.cc(222)] [15:35:34.057] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+3월 28, 2023 16:27:09.831 [5592:3876:0328/162709.831:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+3월 28, 2023 16:27:56.442 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 28, 2023 16:35:09.443 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 28, 2023 17:06:24.609 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+3월 29, 2023 10:03:55.561 NEW SESSION
+3월 29, 2023 10:03:55.561 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 29, 2023 10:12:51.794 [10732:6804:0329/101251.793:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+3월 29, 2023 10:36:03.112 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 29, 2023 10:47:36.01 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 29, 2023 11:04:00.194 [9816:5872:0329/110400.194:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+3월 29, 2023 11:04:06.357 [9816:5872:0329/110406.357:ERROR:device_event_log_impl.cc(222)] [11:04:06.357] Bluetooth: bluetooth_adapter_winrt.cc:1073 Getting Default Adapter failed.
+3월 29, 2023 11:30:01.872 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 29, 2023 11:38:39.103 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 29, 2023 11:45:29.304 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 29, 2023 11:55:18.356 [5696:800:0329/115518.355:ERROR:sharing_service.cc(252)] Device un-registration failed with fatal error
+3월 29, 2023 11:56:33.270 [5696:800:0329/115633.270:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+3월 29, 2023 11:56:39.322 [5696:800:0329/115639.322:ERROR:device_event_log_impl.cc(222)] [11:56:39.322] Bluetooth: bluetooth_adapter_winrt.cc:1073 Getting Default Adapter failed.
+3월 29, 2023 12:00:17.552 [5696:800:0329/120017.551:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+3월 29, 2023 16:14:56.415 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 29, 2023 16:24:19.969 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 29, 2023 16:43:16.581 [10112:6276:0329/164316.580:ERROR:device_event_log_impl.cc(222)] [16:43:16.580] Bluetooth: bluetooth_adapter_winrt.cc:1073 Getting Default Adapter failed.
+3월 29, 2023 17:02:09.446 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 29, 2023 17:11:11.309 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 29, 2023 17:20:06.20 [10360:10464:0329/172006.020:ERROR:device_event_log_impl.cc(222)] [17:20:06.020] Bluetooth: bluetooth_adapter_winrt.cc:1073 Getting Default Adapter failed.
+3월 29, 2023 17:23:18.195 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 29, 2023 18:04:28.460 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 29, 2023 18:07:36.394 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 29, 2023 18:17:22.911 [4020:8548:0329/181722.911:ERROR:device_event_log_impl.cc(222)] [18:17:22.911] Bluetooth: bluetooth_adapter_winrt.cc:1073 Getting Default Adapter failed.
+3월 29, 2023 18:33:40.365 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 29, 2023 18:39:36.01 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 29, 2023 18:40:14.380 [9208:11224:0329/184014.379:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+3월 29, 2023 18:40:21.102 [9208:11224:0329/184021.102:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+3월 29, 2023 18:40:21.621 [9208:11224:0329/184021.621:ERROR:device_event_log_impl.cc(222)] [18:40:21.620] Bluetooth: bluetooth_adapter_winrt.cc:1073 Getting Default Adapter failed.
+
+3월 30, 2023 09:25:36.851 NEW SESSION
+3월 30, 2023 09:25:36.851 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 30, 2023 09:26:28.595 [3168:7252:0330/092628.595:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+3월 30, 2023 09:26:36.880 [3168:7252:0330/092636.880:ERROR:device_event_log_impl.cc(222)] [09:26:36.879] Bluetooth: bluetooth_adapter_winrt.cc:1073 Getting Default Adapter failed.
+3월 30, 2023 09:35:12.284 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 30, 2023 09:38:44.471 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 30, 2023 09:38:47.517 [6804:2728:0330/093847.517:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+3월 30, 2023 09:59:54.257 [6804:2728:0330/095954.257:ERROR:sharing_service.cc(252)] Device un-registration failed with fatal error
+3월 30, 2023 10:07:44.682 [6804:2728:0330/100744.682:ERROR:device_event_log_impl.cc(222)] [10:07:44.682] Bluetooth: bluetooth_adapter_winrt.cc:1073 Getting Default Adapter failed.
+3월 30, 2023 10:33:25.721 [6804:2728:0330/103325.721:ERROR:sharing_service.cc(252)] Device un-registration failed with fatal error
+3월 30, 2023 10:33:36.136 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 30, 2023 10:42:13.583 [5024:9000:0330/104213.583:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+3월 30, 2023 10:42:20.379 [5024:9000:0330/104220.379:ERROR:device_event_log_impl.cc(222)] [10:42:20.379] Bluetooth: bluetooth_adapter_winrt.cc:1073 Getting Default Adapter failed.
+3월 30, 2023 11:14:32.461 [5024:9000:0330/111432.460:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+3월 30, 2023 11:18:42.216 [5024:9000:0330/111842.216:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+3월 30, 2023 11:20:36.32 [5024:9000:0330/112036.032:ERROR:sharing_service.cc(252)] Device un-registration failed with fatal error
+3월 30, 2023 11:35:45.679 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 30, 2023 11:35:57.940 [1952:3924:0330/113557.940:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+3월 30, 2023 11:36:00.418 [1952:3924:0330/113600.418:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+3월 30, 2023 11:47:39.757 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 30, 2023 11:47:41.123 [7184:8668:0330/114741.122:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+3월 30, 2023 11:51:24.423 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 30, 2023 11:56:32.240 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 30, 2023 11:56:52.355 [10372:7076:0330/115652.355:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+3월 30, 2023 11:57:01.768 [10372:7076:0330/115701.768:ERROR:device_event_log_impl.cc(222)] [11:57:01.768] Bluetooth: bluetooth_adapter_winrt.cc:1073 Getting Default Adapter failed.
+3월 30, 2023 12:13:28.512 [10372:7076:0330/121328.512:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+3월 30, 2023 12:24:54.428 [10372:7076:0330/122454.428:ERROR:sharing_service.cc(252)] Device un-registration failed with fatal error
+3월 30, 2023 12:25:02.458 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 30, 2023 12:26:17.430 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 30, 2023 12:50:05.605 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 30, 2023 12:50:09.910 [7252:4552:0330/125009.910:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+3월 30, 2023 12:54:34.135 [7252:4552:0330/125434.134:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+3월 30, 2023 12:54:40.215 [7252:4552:0330/125440.215:ERROR:interface_endpoint_client.cc(695)] Message 1 rejected by interface blink.mojom.WidgetHost
+3월 30, 2023 12:54:40.215 [7252:4552:0330/125440.215:ERROR:interface_endpoint_client.cc(695)] Message 1 rejected by interface blink.mojom.WidgetHost
+3월 30, 2023 12:54:40.584 [7252:4552:0330/125440.584:ERROR:device_event_log_impl.cc(222)] [12:54:40.584] Bluetooth: bluetooth_adapter_winrt.cc:1073 Getting Default Adapter failed.
+3월 30, 2023 12:59:30.687 [7252:4552:0330/125930.687:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+3월 30, 2023 13:04:02.551 [7252:4552:0330/130402.550:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+3월 30, 2023 13:04:23.301 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+3월 30, 2023 13:21:02.44 [7252:4552:0330/132102.044:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+3월 30, 2023 13:27:16.517 [7252:4552:0330/132716.516:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+
+3월 30, 2023 13:41:10.217 NEW SESSION
+3월 30, 2023 13:41:10.217 기존 브라우저 세션에서 여는 중입니다.
+3월 30, 2023 13:41:12.353 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 30, 2023 13:46:59.357 [7376:9360:0330/134659.356:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+3월 30, 2023 13:49:41.81 [1160:6576:0330/134941.081:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+3월 30, 2023 13:49:45.380 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 30, 2023 13:51:56.961 [1160:6576:0330/135156.961:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+3월 30, 2023 13:58:55.00 [1160:6576:0330/135855.000:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+3월 30, 2023 14:09:22.604 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 30, 2023 14:12:17.573 [10284:5592:0330/141217.573:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+3월 30, 2023 14:25:06.486 [7160:6444:0330/142506.486:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+3월 30, 2023 14:25:10.705 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 30, 2023 14:29:24.66 [7160:6444:0330/142924.066:ERROR:sharing_service.cc(252)] Device un-registration failed with fatal error
+3월 30, 2023 14:29:51.616 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+3월 30, 2023 14:32:00.432 NEW SESSION
+3월 30, 2023 14:32:00.432 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 30, 2023 14:51:25.41 [592:3732:0330/145125.041:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+3월 30, 2023 14:51:28.291 [592:3732:0330/145128.291:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+3월 30, 2023 14:52:37.516 [592:3732:0330/145237.516:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+3월 30, 2023 14:52:44.19 [592:3732:0330/145244.019:ERROR:interface_endpoint_client.cc(695)] Message 1 rejected by interface blink.mojom.WidgetHost
+3월 30, 2023 14:52:44.20 [592:3732:0330/145244.019:ERROR:interface_endpoint_client.cc(695)] Message 1 rejected by interface blink.mojom.WidgetHost
+3월 30, 2023 14:52:44.412 [592:3732:0330/145244.411:ERROR:device_event_log_impl.cc(222)] [14:52:44.411] Bluetooth: bluetooth_adapter_winrt.cc:1073 Getting Default Adapter failed.
+3월 30, 2023 15:00:06.834 [592:3732:0330/150006.834:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+
+3월 30, 2023 15:23:29.669 NEW SESSION
+3월 30, 2023 15:23:29.669 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+3월 30, 2023 15:24:53.413 NEW SESSION
+3월 30, 2023 15:24:53.413 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 30, 2023 15:25:53.170 [6472:11156:0330/152553.170:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+3월 30, 2023 15:25:59.349 [6472:11156:0330/152559.348:ERROR:device_event_log_impl.cc(222)] [15:25:59.349] Bluetooth: bluetooth_adapter_winrt.cc:1073 Getting Default Adapter failed.
+3월 30, 2023 15:56:15.613 [6472:11156:0330/155615.613:ERROR:sharing_service.cc(252)] Device un-registration failed with fatal error
+3월 30, 2023 17:22:47.388 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 30, 2023 17:58:51.250 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.

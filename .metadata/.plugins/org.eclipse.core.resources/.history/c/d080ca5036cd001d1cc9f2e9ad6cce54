@@ -1,0 +1,54 @@
+package com.lec.ex.dto;
+
+import java.util.Date;
+
+public class NoticeDto {
+    private int noticeId;
+    private String noticeTitle;
+    private String noticeContent;
+    private Date noticeRdate;
+    private String adminId;
+
+    public NoticeDto(int noticeId, String noticeTitle, String noticeContent, Date noticeRdate, String adminId) {
+        this.noticeId = noticeId;
+        this.noticeTitle = noticeTitle;
+        this.noticeContent = noticeContent;
+        this.noticeRdate = noticeRdate;
+        this.adminId = adminId;
+    }
+	public int getNoticeId() {
+		return noticeId;
+	}
+	public void setNoticeId(int noticeId) {
+		this.noticeId = noticeId;
+	}
+	public String getNoticeTitle() {
+		return noticeTitle;
+	}
+	public void setNoticeTitle(String noticeTitle) {
+		this.noticeTitle = noticeTitle;
+	}
+	public String getNoticeContent() {
+		return noticeContent;
+	}
+	public void setNoticeContent(String noticeContent) {
+		this.noticeContent = noticeContent;
+	}
+	public Date getNoticeRdate() {
+		return noticeRdate;
+	}
+	public void setNoticeRdate(Date noticeRdate) {
+		this.noticeRdate = noticeRdate;
+	}
+	public String getAdminId() {
+		return adminId;
+	}
+	public void setadminId(String adminId) {
+		this.adminId = adminId;
+	}
+	@Override
+	public String toString() {
+		return "NoticeDTO [noticeId=" + noticeId + ", noticeTitle=" + noticeTitle + ", noticeContent=" + noticeContent
+				+ ", noticeRdate=" + noticeRdate + ", adminId=" + adminId + "]";
+	}
+}
